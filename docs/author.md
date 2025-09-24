@@ -14,7 +14,8 @@ I'm [Duvanka], a [duvacica] based in [Paris]. I have a passion for [duvanje].
 My journey with Lightcode began when I applied for Lightcode Academy.
 
 # My Skills
-During the Academy I learned:
+During the Academy I learned:![Uploading IMG_6663.jpeg…]()
+
 - [x] Github — repository management
 - [x] GitHub Pages — website hosting & deployment
 - [ ] Markdown — text formatting, including **bold**, _italic_, and checkboxes
