@@ -8,18 +8,18 @@ __Drop your photo here:__
 
 ![Me]()
 
-I'm [Duvanka], a [duvacica] based in [Paris]. I have a passion for [duvanje].
+**I'm [Duvanka], a [duvacica] based in [Paris]. I have a passion for [duvanje].**
 
 # My journey
-My journey with Lightcode began when I applied for Lightcode Academy.
+My journey with Lightcode began when I _applied for Lightcode Academy._
 
 # My Skills
 During the Academy I learned:![Uploading IMG_6663.jpeg…]()
 
 - [x] Github — repository management
 - [x] GitHub Pages — website hosting & deployment
-- [ ] Markdown — text formatting, including **bold**, _italic_, and checkboxes
-- [ ] StreamlitCloud deployment — app deployment
+- [x] Markdown — text formatting, including **bold**, _italic_, and checkboxes
+- [] StreamlitCloud deployment — app deployment
 - [ ] [Python](python.md) — basics of the most popular programming language
 - [ ] No-code/Low-code platforms — basics of visual programming
 - [ ] Lightcode — building apps with little or no code
