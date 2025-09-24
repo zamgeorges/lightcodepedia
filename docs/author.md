@@ -9,7 +9,7 @@ __Drop your photo here:__
 ![Me]()
 
 **I'm [Duvanka], a [duvacica] based in [Paris]. I have a passion for [duvanje].**
-
+ 
 # My journey
 My journey with Lightcode began when I _applied for Lightcode Academy._
 
