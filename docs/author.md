@@ -5,9 +5,10 @@ _Use Markdown syntax to format your text and add links, images, and other media.
 
 # About Me 
 __Drop your photo here:__
+
 ![Me]()
 
-I'm [Duvanka], a [duvanje] based in [Paris]. I have a passion for [duvanje].
+I'm [Duvanka], a [duvacica] based in [Paris]. I have a passion for [duvanje].
 
 # My journey
 My journey with Lightcode began when I applied for Lightcode Academy.
